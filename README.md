@@ -5,7 +5,7 @@
 
   ## Description
 
-  This application allows you to search a list of API generated employees
+  This application is an employee directory with React that allows users to view an entire employee directory at once so that they have quick access to their information and be able to filter employees by name.
 
   ## Table of contents
 
@@ -19,7 +19,7 @@
 
   ## Installation
 
-  
+  Clone repo, run npm install, and run node index.js from the terminal in the Directory folder
 
   ## Usage
 
@@ -36,7 +36,7 @@
 
   ## Tests
 
-  None
+  test
 
   ## Github
 
